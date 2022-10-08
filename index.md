@@ -7,3 +7,6 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [ ] Finish Markdown tutorial
+- [ ] Finish "first day on Github" courses
+- [ ] Finish "first week on Github" courses
